@@ -1,0 +1,326 @@
+{
+  "bereshit": {
+    "historia": "Hashem creó el mundo en seis días: la luz, el cielo, el mar, las plantas, los animales y a las personas. Vio que todo era muy bueno y descansó en el séptimo día.",
+    "idea": "El mundo es un regalo de Hashem para cuidar.",
+    "palabra": ["אוֹר", "Or", "Luz"],
+    "dibujo": "Dibuja tu parte favorita de la creación."
+  },
+  "noach": {
+    "historia": "La gente se había vuelto mala, pero Noaj era bueno. Hashem le pidió construir un arca. Noaj, su familia y muchos animales se salvaron del diluvio. Después, Hashem puso un arcoíris como promesa.",
+    "idea": "Hashem cumple sus promesas y protege a los buenos.",
+    "palabra": ["תֵּיבָה", "Teivá", "Arca"],
+    "dibujo": "Dibuja el arca de Noaj con muchos animales."
+  },
+  "lechlecha": {
+    "historia": "Hashem le dijo a Avram: «Deja tu tierra y ve al lugar que te mostraré». Avram confió, dejó su casa y viajó con su familia a una tierra nueva. Hashem le prometió que sería el padre de un gran pueblo.",
+    "idea": "Confiar en Hashem nos da valor para empezar cosas nuevas.",
+    "palabra": ["לֶךְ־לְךָ", "Lej Lejá", "Ve hacia ti"],
+    "dibujo": "Dibuja a Avram y su familia caminando hacia una tierra nueva."
+  },
+  "vayera": {
+    "historia": "Avraham estaba sentado a la puerta de su tienda cuando vio a tres viajeros. Corrió a recibirlos, les dio agua, comida y un lugar para descansar. Eran ángeles que le anunciaron que tendría un hijo.",
+    "idea": "Recibir a los demás con alegría es una gran mitzvá.",
+    "palabra": ["הַכְנָסַת אוֹרְחִים", "Hajnasat Orjim", "Hospitalidad"],
+    "dibujo": "Dibuja a Avraham recibiendo a los tres visitantes."
+  },
+  "jayeisarah": {
+    "historia": "Sara vivió 127 años. Avraham la quiso mucho y compró un campo para enterrarla. Después, su siervo Eliezer fue a buscar una esposa para Itzjak y encontró a Rivka, que fue bondadosa con sus camellos.",
+    "idea": "La bondad y el respeto son importantes en la familia.",
+    "palabra": ["חֶסֶד", "Jésed", "Bondad"],
+    "dibujo": "Dibuja a Rivka dando agua a los camellos."
+  },
+  "toldot": {
+    "historia": "Itzjak y Rivka tuvieron dos hijos: Esav y Yaakov. Esav era peludo y amaba el campo; Yaakov era tranquilo. Un día, Esav vendió su primogenitura a Yaakov por un plato de lentejas. Yaakov recibió la bendición de su padre.",
+    "idea": "La honestidad y la paciencia son más valiosas que lo inmediato.",
+    "palabra": ["תּוֹלְדוֹת", "Toldot", "Generaciones"],
+    "dibujo": "Dibuja a Esav y Yaakov."
+  },
+  "vayetze": {
+    "historia": "Yaakov huyó de su hermano y, en el camino, soñó con una escalera que llegaba al cielo, con ángeles que subían y bajaban. Hashem le prometió que estaría con él dondequiera que fuera.",
+    "idea": "Hashem está con nosotros incluso cuando estamos lejos de casa.",
+    "palabra": ["סֻלָּם", "Sulam", "Escalera"],
+    "dibujo": "Dibuja la escalera de Yaakov con ángeles."
+  },
+  "vayishlaj": {
+    "historia": "Yaakov tenía miedo de encontrarse con su hermano Esav, pero se reconciliaron. Esav lo abrazó y lloraron juntos. Yaakov aprendió que el perdón es posible.",
+    "idea": "Reconciliarse con los demás trae paz al corazón.",
+    "palabra": ["סְלִיחָה", "Selijá", "Perdón"],
+    "dibujo": "Dibuja a Yaakov y Esav abrazándose."
+  },
+  "vayeshev": {
+    "historia": "Yaakov amaba a Yosef más que a sus otros hijos y le regaló una túnica de colores. Sus hermanos, celosos, lo vendieron como esclavo. Pero Hashem estaba con Yosef en Egipto.",
+    "idea": "Hashem está con nosotros incluso en los momentos difíciles.",
+    "palabra": ["כֻּתֹּנֶת", "Kutonet", "Túnica"],
+    "dibujo": "Dibuja la túnica de colores de Yosef."
+  },
+  "miketz": {
+    "historia": "El faraón soñó con vacas gordas y flacas. Yosef, que estaba en la cárcel, interpretó el sueño: habría siete años de abundancia y siete de hambre. El faraón lo nombró jefe de Egipto para prepararse.",
+    "idea": "La sabiduría y la humildad son regalos de Hashem.",
+    "palabra": ["חָכְמָה", "Jojmá", "Sabiduría"],
+    "dibujo": "Dibuja a Yosef interpretando el sueño del faraón."
+  },
+  "vayigash": {
+    "historia": "Yehudá se acercó a Yosef para pedirle que no castigara a Binyamín. Entonces Yosef se dio a conocer: «¡Yo soy Yosef, su hermano!». Todos lloraron y se abrazaron. Yosef perdonó a sus hermanos.",
+    "idea": "El perdón sana las relaciones y une a la familia.",
+    "palabra": ["מְחִילָה", "Mejilá", "Perdón"],
+    "dibujo": "Dibuja el reencuentro de Yosef con sus hermanos."
+  },
+  "vayeji": {
+    "historia": "Antes de morir, Yaakov bendijo a cada uno de sus hijos. Les dijo palabras de aliento y les prometió un futuro. Yosef le llevó a sus hijos, Efraim y Menashé, para que también los bendijera.",
+    "idea": "Las bendiciones de los padres son un regalo valioso.",
+    "palabra": ["בְּרָכָה", "Berajá", "Bendición"],
+    "dibujo": "Dibuja a Yaakov bendiciendo a sus nietos."
+  },
+  "shemot": {
+    "historia": "El pueblo de Israel sufría en Egipto. Moshé cuidaba ovejas cuando vio una zarza que ardía sin quemarse. Hashem le habló desde ella y le pidió que sacara al pueblo de Egipto. Moshé tuvo miedo, pero Hashem le prometió: «Yo estaré contigo».",
+    "idea": "Hashem escucha el sufrimiento y llama a personas valientes para ayudar.",
+    "palabra": ["סְנֶה", "Sené", "Zarza"],
+    "dibujo": "Dibuja la zarza ardiente."
+  },
+  "vaera": {
+    "historia": "Hashem le dijo a Moshé que hablaría con el faraón para liberar al pueblo. El faraón no quiso escuchar, y Hashem envió plagas a Egipto. Aun así, el faraón se negó a dejar ir al pueblo.",
+    "idea": "Hashem es poderoso y libera a los que sufren.",
+    "palabra": ["מַכּוֹת", "Makot", "Plagas"],
+    "dibujo": "Dibuja una de las plagas de Egipto."
+  },
+  "bo": {
+    "historia": "Hashem envió la décima plaga y el faraón finalmente dejó ir al pueblo. Los israelitas salieron de prisa, con la matzá en sus manos. Hashem les ordenó recordar ese día para siempre.",
+    "idea": "La libertad es un regalo de Hashem que debemos valorar.",
+    "palabra": ["חֵרוּת", "Jerut", "Libertad"],
+    "dibujo": "Dibuja al pueblo saliendo de Egipto."
+  },
+  "beshalach": {
+    "historia": "El pueblo salió de Egipto, pero el faraón los persiguió. Llegaron al mar y Moshé levantó su bastón. El mar se abrió en dos, y el pueblo cruzó por tierra seca. Cuando los egipcios entraron, el agua volvió a cerrarse.",
+    "idea": "Hashem nos guía y nos protege en los momentos difíciles.",
+    "palabra": ["יָם סוּף", "Yam Suf", "Mar Rojo"],
+    "dibujo": "Dibuja el mar abriéndose para el pueblo de Israel."
+  },
+  "yitro": {
+    "historia": "Yitró, el suegro de Moshé, vio que Moshé juzgaba al pueblo todo el día y le aconsejó delegar. Después, el pueblo llegó al Monte Sinaí y Hashem les dio los Diez Mandamientos.",
+    "idea": "Las leyes de Hashem nos enseñan a vivir bien y a tratarnos con respeto.",
+    "palabra": ["עֲשֶׂרֶת הַדִּבְּרוֹת", "Aseret HaDibrot", "Diez Mandamientos"],
+    "dibujo": "Dibuja las dos tablas de la ley."
+  },
+  "mishpatim": {
+    "historia": "Hashem le dio a Moshé muchas leyes para que el pueblo viviera en justicia: cómo tratar a los sirvientes, cómo ayudar al pobre, cómo hacer justicia. El pueblo aceptó cumplirlas.",
+    "idea": "La justicia y el cuidado de los demás son importantes.",
+    "palabra": ["צֶדֶק", "Tzedek", "Justicia"],
+    "dibujo": "Dibuja una balanza de la justicia."
+  },
+  "terumah": {
+    "historia": "Hashem le pidió al pueblo que trajera ofrendas para construir el Tabernáculo, un lugar donde la presencia divina habitaría. Cada persona dio lo que su corazón le dictaba: oro, plata, telas.",
+    "idea": "Dar con generosidad es una forma de acercarnos a Hashem.",
+    "palabra": ["תְּרוּמָה", "Terumá", "Ofrenda"],
+    "dibujo": "Dibuja el Tabernáculo."
+  },
+  "tetzaveh": {
+    "historia": "Hashem le dijo a Moshé que el pueblo debía traer aceite puro para encender la Menorá del Tabernáculo. La luz debía arder siempre. También le pidió que preparara a Aharón y a sus hijos como sacerdotes.",
+    "idea": "La luz de Hashem puede brillar a través de nuestras buenas acciones.",
+    "palabra": ["נֵר תָּמִיד", "Ner Tamid", "Luz perpetua"],
+    "dibujo": "Dibuja la Menorá del Tabernáculo."
+  },
+  "kitisa": {
+    "historia": "Moshé subió al Monte Sinaí y el pueblo, al ver que tardaba, hizo un becerro de oro para adorarlo. Hashem se enojó, pero Moshé rezó por el pueblo y Hashem lo perdonó. Moshé bajó con las nuevas tablas de la ley.",
+    "idea": "La paciencia y el perdón de Hashem son muy grandes.",
+    "palabra": ["עֵגֶל", "Égel", "Becerro"],
+    "dibujo": "Dibuja a Moshé bajando del monte con las tablas."
+  },
+  "vayakhel": {
+    "historia": "Moshé reunió al pueblo y les pidió que trajeran materiales para el Tabernáculo. Todos colaboraron: hombres y mujeres, ricos y pobres. Trajeron tanto que Moshé tuvo que decirles que ya era suficiente.",
+    "idea": "Cuando trabajamos juntos, logramos grandes cosas.",
+    "palabra": ["קְהִלָּה", "Kehilá", "Comunidad"],
+    "dibujo": "Dibuja a muchas personas trabajando juntas."
+  },
+  "pekudey": {
+    "historia": "Moshé hizo un recuento de todo el oro, la plata y las telas que el pueblo había donado para el Tabernáculo. Cada persona contaba. Así se construyó el lugar donde Hashem habitaría.",
+    "idea": "Cada persona y cada aporte son importantes.",
+    "palabra": ["חֶשְׁבּוֹן", "Jeshbón", "Recuento"],
+    "dibujo": "Dibuja a Moshé contando las ofrendas."
+  },
+  "vayikra": {
+    "historia": "Hashem llamó a Moshé desde el Tabernáculo y le explicó cómo debían hacerse las ofrendas. Cada ofrenda tenía un significado: acercarse a Hashem con el corazón.",
+    "idea": "Las ofrendas nos enseñan a acercarnos a Hashem con humildad.",
+    "palabra": ["קָרְבָּן", "Korbán", "Ofrenda"],
+    "dibujo": "Dibuja el altar de las ofrendas."
+  },
+  "tzav": {
+    "historia": "Hashem le ordenó a Moshé que el fuego del altar nunca se apagara. Los sacerdotes debían mantenerlo encendido día y noche. También les enseñó cómo preparar las ofrendas.",
+    "idea": "La dedicación y la constancia son importantes.",
+    "palabra": ["אֵשׁ תָּמִיד", "Esh Tamid", "Fuego perpetuo"],
+    "dibujo": "Dibuja el fuego del altar encendido."
+  },
+  "shemini": {
+    "historia": "En el octavo día de la inauguración del Tabernáculo, Aharón y sus hijos comenzaron a servir como sacerdotes. Una luz especial bajó del cielo. Pero dos de los hijos de Aharón hicieron algo incorrecto y murieron.",
+    "idea": "La santidad requiere respeto y cuidado.",
+    "palabra": ["קְדֻשָּׁה", "Kedushá", "Santidad"],
+    "dibujo": "Dibuja el Tabernáculo con una luz especial."
+  },
+  "tazria": {
+    "historia": "Hashem le explicó a Moshé las leyes sobre la pureza después del parto. Una mujer que daba a luz debía traer una ofrenda. Estas leyes enseñaban a valorar la vida y el cuerpo.",
+    "idea": "La vida y el cuidado del cuerpo son sagrados.",
+    "palabra": ["טָהֳרָה", "Tohorá", "Pureza"],
+    "dibujo": "Dibuja una familia con un bebé."
+  },
+  "metzora": {
+    "historia": "Hashem le explicó a Moshé cómo tratar a una persona con una enfermedad de la piel. El sacerdote la revisaba y, cuando sanaba, traía una ofrenda. La palabra puede sanar o dañar.",
+    "idea": "Debemos tener cuidado con lo que decimos y cómo tratamos a los demás.",
+    "palabra": ["לָשׁוֹן הָרָע", "Lashón Hará", "Maledicencia"],
+    "dibujo": "Dibuja una lengua con un corazón."
+  },
+  "ajareimot": {
+    "historia": "Después de la muerte de los hijos de Aharón, Hashem le explicó a Moshé las leyes del Día de la Expiación, Yom Kipur. Ese día, el Sumo Sacerdote entraba al lugar más sagrado para pedir perdón por el pueblo.",
+    "idea": "El arrepentimiento y el perdón son posibles.",
+    "palabra": ["תְּשׁוּבָה", "Teshuvá", "Arrepentimiento"],
+    "dibujo": "Dibuja un corazón con una flecha que regresa."
+  },
+  "kedoshim": {
+    "historia": "Hashem le dijo al pueblo: «Sean santos, porque yo, Hashem, soy santo». Les enseñó a amar al prójimo como a sí mismos, a respetar a los padres, a no robar y a ser justos.",
+    "idea": "Amar al prójimo como a ti mismo es una gran mitzvá.",
+    "palabra": ["אַהֲבַת יִשְׂרָאֵל", "Ahavat Yisrael", "Amor al prójimo"],
+    "dibujo": "Dibuja a dos amigos ayudándose."
+  },
+  "emor": {
+    "historia": "Hashem le dijo a Moshé que les enseñara al pueblo las festividades: Shabat, Pésaj, Shavuot, Sucot. Cada una tiene su propio significado y sus propias mitzvot.",
+    "idea": "Las festividades nos ayudan a recordar y celebrar.",
+    "palabra": ["מוֹעֲדִים", "Moadim", "Festividades"],
+    "dibujo": "Dibuja una festividad judía."
+  },
+  "behar": {
+    "historia": "Hashem le dijo a Moshé que, cada siete años, la tierra debía descansar. Era el año sabático, Shemitá. También les enseñó sobre el Jubileo, cuando los esclavos eran liberados.",
+    "idea": "El descanso y la libertad son importantes para todos.",
+    "palabra": ["שְׁמִיטָה", "Shemitá", "Año sabático"],
+    "dibujo": "Dibuja un campo de cultivo descansando."
+  },
+  "bechukotai": {
+    "historia": "Hashem le dijo al pueblo: «Si siguen mis leyes, les daré lluvias a su tiempo y vivirán en paz. Pero si no las siguen, vendrán dificultades». El pueblo debía elegir.",
+    "idea": "Nuestras acciones tienen consecuencias.",
+    "palabra": ["בְּרָכָה", "Berajá", "Bendición"],
+    "dibujo": "Dibuja una lluvia de bendiciones."
+  },
+  "bamidbar": {
+    "historia": "Hashem le pidió a Moshé que contara al pueblo de Israel en el desierto. Cada tribu tenía su lugar y su bandera. El pueblo se organizó alrededor del Tabernáculo.",
+    "idea": "Cada persona tiene un lugar y un valor único.",
+    "palabra": ["מִפְקָד", "Mifkad", "Censo"],
+    "dibujo": "Dibuja las tribus con sus banderas."
+  },
+  "naso": {
+    "historia": "Hashem le dijo a Moshé que los sacerdotes bendijeran al pueblo con las palabras: «Que Hashem te bendiga y te proteja». También les enseñó sobre el nazireo, una persona que se dedicaba especialmente a Hashem.",
+    "idea": "La bendición de Hashem nos protege y nos da paz.",
+    "palabra": ["בִּרְכַּת כֹּהֲנִים", "Birkat Kohanim", "Bendición sacerdotal"],
+    "dibujo": "Dibuja las manos de los sacerdotes bendiciendo."
+  },
+  "behaaloteja": {
+    "historia": "Hashem le dijo a Moshé que Aharón encendiera las lámparas de la Menorá hacia adelante. La luz debía iluminar el camino. El pueblo seguía la nube de Hashem en el desierto.",
+    "idea": "La luz de Hashem nos guía en nuestro camino.",
+    "palabra": ["מְנוֹרָה", "Menorá", "Candelabro"],
+    "dibujo": "Dibuja la Menorá encendida."
+  },
+  "shelajleja": {
+    "historia": "Moshé envió doce espías a la Tierra Prometida. Diez volvieron con miedo, diciendo que era imposible conquistarla. Solo Yehoshúa y Kalev confiaron en Hashem y dijeron: «¡Podemos hacerlo!».",
+    "idea": "La confianza en Hashem nos da valentía.",
+    "palabra": ["מְרַגְּלִים", "Meraglim", "Espías"],
+    "dibujo": "Dibuja a los espías con un racimo de uvas."
+  },
+  "korach": {
+    "historia": "Koraj y otros se rebelaron contra Moshé, diciendo que todos eran iguales. Hashem mostró que Moshé era el líder elegido. La tierra se abrió y se tragó a los rebeldes.",
+    "idea": "La humildad y el respeto al liderazgo son importantes.",
+    "palabra": ["מַחֲלֹקֶת", "Majloket", "Discordia"],
+    "dibujo": "Dibuja a Koraj y sus seguidores."
+  },
+  "chukat": {
+    "historia": "Hashem le explicó a Moshé la ley de la vaca roja, que purificaba a las personas. También el pueblo se quejó por falta de agua, y Hashem le dijo a Moshé que hablara a la roca. Moshé la golpeó y salió agua.",
+    "idea": "La fe y la paciencia son importantes, incluso cuando es difícil.",
+    "palabra": ["פָּרָה אֲדֻמָּה", "Pará Adumá", "Vaca roja"],
+    "dibujo": "Dibuja a Moshé golpeando la roca."
+  },
+  "balak": {
+    "historia": "Balak, rey de Moav, contrató al profeta Bilam para maldecir al pueblo de Israel. Pero cada vez que Bilam intentaba maldecir, Hashem ponía bendiciones en su boca. El pueblo fue bendecido.",
+    "idea": "Hashem protege a su pueblo y convierte las maldiciones en bendiciones.",
+    "palabra": ["בִּלְעָם", "Bilam", "Balaam"],
+    "dibujo": "Dibuja a Bilam y su burra."
+  },
+  "pinjas": {
+    "historia": "Pinjás, nieto de Aharón, actuó con valentía para detener una mala acción del pueblo. Hashem lo alabó y le dio un pacto de paz. El pueblo aprendió sobre la importancia de la justicia.",
+    "idea": "La valentía y la justicia son importantes.",
+    "palabra": ["קִנְאָה", "Kiná", "Celo"],
+    "dibujo": "Dibuja a Pinjás actuando con valentía."
+  },
+  "matot": {
+    "historia": "Las tribus de Reuvén y Gad pidieron quedarse en el lado este del Jordán, donde había pasto para sus animales. Moshé les recordó que debían cumplir su promesa de ayudar a las demás tribus a conquistar la tierra.",
+    "idea": "Las promesas deben cumplirse.",
+    "palabra": ["נֶדֶר", "Néder", "Promesa"],
+    "dibujo": "Dibuja a las tribus con sus animales."
+  },
+  "masei": {
+    "historia": "Moshé escribió todas las etapas del viaje del pueblo por el desierto, desde Egipto hasta la Tierra Prometida. Cada lugar tenía una lección. El pueblo aprendió a confiar en Hashem.",
+    "idea": "Los viajes y los desafíos nos enseñan lecciones valiosas.",
+    "palabra": ["מַסָּע", "Masá", "Viaje"],
+    "dibujo": "Dibuja un mapa del viaje por el desierto."
+  },
+  "devarim": {
+    "historia": "Antes de morir, Moshé habló al pueblo y les recordó todo lo que Hashem había hecho por ellos. Les dijo: «Escuchen las leyes y cúmplanlas». El pueblo se preparó para entrar a la Tierra Prometida.",
+    "idea": "Las palabras de Hashem son importantes y nos guían.",
+    "palabra": ["דְּבָרִים", "Devarim", "Palabras"],
+    "dibujo": "Dibuja a Moshé hablando al pueblo."
+  },
+  "vaetjanan": {
+    "historia": "Moshé le rogó a Hashem que lo dejara entrar a la Tierra Prometida, pero Hashem le dijo que no. A cambio, le pidió al pueblo que escuchara los mandamientos y los enseñara a sus hijos. El Shemá es parte de esta parashá.",
+    "idea": "La oración y la fe son importantes, aunque no siempre recibamos lo que pedimos.",
+    "palabra": ["שְׁמַע", "Shemá", "Escucha"],
+    "dibujo": "Dibuja la palabra Shemá."
+  },
+  "ekev": {
+    "historia": "Moshé le dijo al pueblo: «Si escuchan las leyes de Hashem, serán bendecidos». Les recordó que Hashem los cuidó en el desierto y les dio el maná. La obediencia trae bendiciones.",
+    "idea": "La obediencia a Hashem trae bendiciones.",
+    "palabra": ["בְּרָכָה", "Berajá", "Bendición"],
+    "dibujo": "Dibuja el maná cayendo del cielo."
+  },
+  "reeh": {
+    "historia": "Moshé le dijo al pueblo: «Mira, hoy pongo ante ti la bendición y la maldición». El pueblo debía elegir el camino del bien. También les enseñó sobre el lugar donde se harían las ofrendas.",
+    "idea": "Elegir el bien es una decisión que tomamos cada día.",
+    "palabra": ["בְּחִירָה", "Bejirá", "Elección"],
+    "dibujo": "Dibuja dos caminos, uno bueno y uno malo."
+  },
+  "shoftim": {
+    "historia": "Moshé le dijo al pueblo que nombraran jueces justos en cada ciudad. También les habló sobre el rey que tendrían en el futuro: debía escribir una copia de la Torá y leerla todos los días.",
+    "idea": "La justicia y el buen liderazgo son importantes.",
+    "palabra": ["מִשְׁפָּט", "Mishpat", "Justicia"],
+    "dibujo": "Dibuja a un juez justo."
+  },
+  "kitetze": {
+    "historia": "Moshé enseñó al pueblo leyes sobre la guerra, el matrimonio y el trato a los demás. Les dijo que recordaran cómo Hashem los sacó de Egipto y que fueran bondadosos con los débiles.",
+    "idea": "La bondad y la memoria de Hashem deben guiar nuestras acciones.",
+    "palabra": ["חֶסֶד", "Jésed", "Bondad"],
+    "dibujo": "Dibuja a alguien siendo bondadoso."
+  },
+  "kitavo": {
+    "historia": "Moshé le dijo al pueblo que, cuando entraran a la Tierra Prometida, debían traer las primicias de sus frutos al Templo y agradecer a Hashem. También les habló de las bendiciones y maldiciones.",
+    "idea": "La gratitud es importante: debemos agradecer a Hashem por lo que tenemos.",
+    "palabra": ["תּוֹדָה", "Todá", "Gratitud"],
+    "dibujo": "Dibuja una canasta con frutas."
+  },
+  "nitzavim": {
+    "historia": "Moshé reunió a todo el pueblo: hombres, mujeres y niños, para renovar la alianza con Hashem. Les dijo: «Hoy están todos de pie ante Hashem». La Torá no está en el cielo, sino cerca de nosotros, en nuestra boca y en nuestro corazón.",
+    "idea": "La Torá está cerca de nosotros y todos podemos estudiarla.",
+    "palabra": ["בְּרִית", "Brit", "Alianza"],
+    "dibujo": "Dibuja a todo el pueblo reunido."
+  },
+  "vayelej": {
+    "historia": "Moshé le dijo al pueblo que ya era viejo y que no podría entrar a la tierra. Le entregó el liderazgo a Yehoshúa y le escribió un cántico para que lo recordaran. Hashem le dijo a Moshé que el pueblo lo extrañaría.",
+    "idea": "La Torá nos guía incluso cuando los líderes cambian.",
+    "palabra": ["הַקְהֵל", "Hakhel", "Reunir"],
+    "dibujo": "Dibuja a Moshé entregando el liderazgo a Yehoshúa."
+  },
+  "haazinu": {
+    "historia": "Moshé cantó un cántico de despedida al pueblo. Llamó al cielo y a la tierra como testigos y les recordó la bondad de Hashem. Les dijo que Hashem es justo y que siempre cumple sus promesas.",
+    "idea": "Escuchar a Hashem y recordar sus bondades es importante.",
+    "palabra": ["שִׁירָה", "Shirá", "Canto"],
+    "dibujo": "Dibuja a Moshé cantando."
+  },
+  "vezothabrajah": {
+    "historia": "Antes de morir, Moshé bendijo a cada tribu de Israel. Subió al Monte Nevo, vio la Tierra Prometida desde lejos y murió. Hashem lo enterró y nadie sabe dónde está. El pueblo lloró a Moshé durante treinta días.",
+    "idea": "La bendición de un líder justo deja una huella para siempre.",
+    "palabra": ["בְּרָכָה", "Berajá", "Bendición"],
+    "dibujo": "Dibuja a Moshé en el Monte Nevo."
+  }
+}
